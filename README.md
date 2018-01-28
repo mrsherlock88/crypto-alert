@@ -12,3 +12,11 @@
   
   ![](http://img.ziggi.org/iMeleGHI.png)
 
+# Donation
+
+  - If you find this tool is helpful, feel free to help me to update more functions:
+	- BTC: **13LV59bMejGCFZosM8gFqxRVx1Q6crc1gD**
+	- ETH: **0xaf14f61AB99919F242cC2272DB98bD0bec0BEfd8**
+	- BNB: **0x05cddde8d79c3f4b2d99bc5eaf6e2686d6b262ab**
+	- Or register Binance under my Ref link: https://www.binance.com/?ref=16851258
+	
