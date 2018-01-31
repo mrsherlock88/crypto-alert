@@ -1,9 +1,8 @@
 # Order menu
 
-	![](http://img.ziggi.org/9jmhkodT.png)
-
-  - Click Refresh button ![](http://img.ziggi.org/QlscrxZA.png) to manual update new order.
-  - Click Clear button ![](http://img.ziggi.org/J8fa0q7B.png) to clear all CANCELED and FILLED Order.
+  ![](http://img.ziggi.org/9jmhkodT.png)
+  - Click Refresh button ![](http://img.ziggi.org/QlscrxZA.png =20x20) to manual update new order.
+  - Click Clear button ![](http://img.ziggi.org/J8fa0q7B.png =20x20) to clear all CANCELED and FILLED Order.
 
 # How to get API Key and Secret Key from Binance
 
@@ -17,7 +16,7 @@
   - Becareful when using API Key and Secret Key, my app only need **Read Info**, please un-check **Enable Trading** (this is enable by default when create new key) and **Enable Withdrawals**.
   - Finally, copy your API Key and Secret Key in Setting Page.
   
-  ![](http://img.ziggi.org/iMeleGHI.png)
+  ![](http://img.ziggi.org/AEKFwLNZ.png)
 
 # Donation
 
