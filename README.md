@@ -1,3 +1,10 @@
+# Order menu
+
+	![](http://img.ziggi.org/9jmhkodT.png)
+
+  - Click Refresh button ![](http://img.ziggi.org/QlscrxZA.png) to manual update new order.
+  - Click Clear button ![](http://img.ziggi.org/J8fa0q7B.png) to clear all CANCELED and FILLED Order.
+
 # How to get API Key and Secret Key from Binance
 
   - Login into `https://www.binance.com/`.
